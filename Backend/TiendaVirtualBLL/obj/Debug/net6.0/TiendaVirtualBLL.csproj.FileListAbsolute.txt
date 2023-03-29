@@ -1,0 +1,15 @@
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualBLL\bin\Debug\net6.0\TiendaVirtualBLL.deps.json
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualBLL\bin\Debug\net6.0\TiendaVirtualBLL.dll
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualBLL\bin\Debug\net6.0\TiendaVirtualBLL.pdb
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualBLL\bin\Debug\net6.0\TiendaVirtualDAL.dll
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualBLL\bin\Debug\net6.0\TiendaVirtualDAL.pdb
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualBLL\obj\Debug\net6.0\TiendaVirtualBLL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualBLL\obj\Debug\net6.0\TiendaVirtualBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualBLL\obj\Debug\net6.0\TiendaVirtualBLL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualBLL\obj\Debug\net6.0\TiendaVirtualBLL.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualBLL\obj\Debug\net6.0\TiendaVirtualBLL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualBLL\obj\Debug\net6.0\TiendaVirtualBLL.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualBLL\obj\Debug\net6.0\TiendaVirtualBLL.dll
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualBLL\obj\Debug\net6.0\refint\TiendaVirtualBLL.dll
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualBLL\obj\Debug\net6.0\TiendaVirtualBLL.pdb
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualBLL\obj\Debug\net6.0\ref\TiendaVirtualBLL.dll

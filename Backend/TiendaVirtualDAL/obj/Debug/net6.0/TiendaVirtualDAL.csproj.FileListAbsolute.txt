@@ -1,0 +1,14 @@
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualDAL\bin\Debug\net6.0\TiendaVirtualDAL.deps.json
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualDAL\bin\Debug\net6.0\TiendaVirtualDAL.dll
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualDAL\bin\Debug\net6.0\TiendaVirtualDAL.pdb
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualDAL\obj\Debug\net6.0\TiendaVirtualDAL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualDAL\obj\Debug\net6.0\TiendaVirtualDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualDAL\obj\Debug\net6.0\TiendaVirtualDAL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualDAL\obj\Debug\net6.0\TiendaVirtualDAL.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualDAL\obj\Debug\net6.0\TiendaVirtualDAL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualDAL\obj\Debug\net6.0\TiendaVirtualDAL.dll
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualDAL\obj\Debug\net6.0\refint\TiendaVirtualDAL.dll
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualDAL\obj\Debug\net6.0\TiendaVirtualDAL.pdb
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualDAL\obj\Debug\net6.0\ref\TiendaVirtualDAL.dll
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualDAL\bin\Debug\net6.0\TiendaVirtualDAL.runtimeconfig.json
+C:\Users\USUARIO\source\repos\TiendaVirtual\TiendaVirtualDAL\obj\Debug\net6.0\TiendaVirtualDAL.genruntimeconfig.cache
