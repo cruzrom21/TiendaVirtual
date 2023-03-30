@@ -91,13 +91,13 @@ const Products = () => {
 
                         <div className="col-2">
                             <div className="input-group">
-                                <input type="text" className="form-control" placeholder="Filtrar precio menor" id="precioMenor"/>
+                                <input type="number" className="form-control" placeholder="Filtrar precio menor" id="precioMenor"/>
                             </div>
                         </div>
 
                         <div className="col-4">
                             <div className="input-group">
-                                <input type="text" className="form-control" placeholder="Filtrar precio mayor" id="precioMayor"/>
+                                <input type="number" className="form-control" placeholder="Filtrar precio mayor" id="precioMayor"/>
                             </div>
                         </div>
 

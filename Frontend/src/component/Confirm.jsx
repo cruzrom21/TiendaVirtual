@@ -19,11 +19,18 @@ const Confirm = () => {
         const phone = document.getElementById("phone").value;
         const bank = document.getElementById("bank").value;
 
-        if (name.length === 0 && name.length === 0 && name.length === 0) {
+        if (name.length === 0) {
             alert("Llene todos los campos antes de enviar");
             return null;
         }
-
+        if (phone.length === 0) {
+            alert("Llene todos los campos antes de enviar");
+            return null;
+        }
+        if (bank.length === 0) {
+            alert("Llene todos los campos antes de enviar");
+            return null;
+        }
 
         const products = Object.assign(state, stateCounter);
 

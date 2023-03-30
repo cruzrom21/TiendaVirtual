@@ -33,8 +33,13 @@ const Product = () => {
     const handleCart = (product) => {
         if (cartBtn === "Agregar al carrito") {
             setAdd(true)
+
             product.count = found === undefined ? 1 : found.count;
+            product.increment = found === undefined ? 1 : found.count;
+
+            dispatch(writeCounter(product));
             dispatch(addCart(product));
+
             setCartBtn("Remover del carrito");
         } else {
             setAdd(false)

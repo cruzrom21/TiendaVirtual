@@ -17,7 +17,7 @@ const handleCounter = (state = products, action) => {
                 return x.identification === action.payload.identification
             });
 
-            let increment = found === undefined ? 0 : found.count;
+            let increment = found === undefined ? 1 : found.count;
 
             state = state.filter((x) => {
                 return x.identification !== action.payload.identification
@@ -39,7 +39,7 @@ const handleCounter = (state = products, action) => {
                 return x.identification === action.payload.identification
             });
 
-            let increment1 = found1 === undefined ? 0 : found1.count;
+            let increment1 = found1 === undefined ? 1 : found1.count;
 
             state = state.filter((x) => {
                 return x.identification !== action.payload.identification
@@ -65,7 +65,7 @@ const handleCounter = (state = products, action) => {
             let newPayload2 = {
                 ...action.payload,
             };
-            newPayload2.count = parseInt(action.payload.increment) < 1 ? 1 : parseInt(action.payload.increment);
+            newPayload2.count = parseInt(action.payload.increment) < 1 || action.payload.increment.length <= 0 ? 1 : parseInt(action.payload.increment);
 
             return [
                 ...state,
